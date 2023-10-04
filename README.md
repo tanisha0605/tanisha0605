@@ -1,7 +1,7 @@
  # About Me:👩‍💻 #
-1.Currently pursuing BTech in IT at Dwarkadas J. Sanghvi College of Engineering🎓<br>
-2.An aspiring IT engineer and software developer💻.<br>
-3.Passionate about coding and learning🔗🌐.
+🎓Currently pursuing BTech in IT at Dwarkadas J. Sanghvi College of Engineering<br>
+💻An aspiring IT engineer and software developer.<br>
+🔗🌐Passionate about coding and learning.
   
 
 
