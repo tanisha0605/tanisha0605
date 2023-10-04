@@ -1,6 +1,8 @@
-<h1 align="center" style="color:white">Hi 👋, I'm Tanisha Kanal</h1>
+<h1 align="left" style="color:white">About Me</h1>
 <h4 align="left">1.Currently pursuing BTech in IT at Dwarkadas J. Sanghvi College of Engineering🎓<br>
-  2.An aspiring IT engineer and software developer.
+  2.An aspiring IT engineer and software developer💻.<br>
+  3.Passionate about coding and learning🔗🌐.
+  
 </h4>
 
 
