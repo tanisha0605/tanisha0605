@@ -14,7 +14,7 @@
 ## Languages and Tools: ##
 <table  align=center>
   <tr>
-<td align=center 
+<td align=center >
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </td>
 
  <td> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -34,7 +34,7 @@
 </table>
 
 ## GitHub Stats: ##
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha0605&show_icons=true&locale=en&layout=compact" alt="tanisha0605" /></p>
+<p><img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha0605&show_icons=true&locale=en&layout=compact" alt="tanisha0605" /></p>
 
 
 
