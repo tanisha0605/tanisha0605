@@ -31,7 +31,7 @@
  </td>
  <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </td> 
  <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="c" width="40" height="40" ></a></td>
- <td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="<td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="c" width="40" height="40" ></a></td>"  alt="c" width="40" height="40" ></a></td>
+ <td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://private-user-images.githubusercontent.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3MTEwMDEsIm5iZiI6MTcwMTcxMDcwMSwicGF0aCI6Ii8xMzY4MTUxOTQvMjUzMjIwODg2LTAyNDk0YzdjLWRlNmEtNDNhNi05MjkzLTYzNjk2OTY4NDJlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwNFQxNzI1MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjI0OTExMDM0MmVlODgyNGFiM2EyNjk2MTBlZjg2MjdmMTI4ODQ2Mzc0YTRmODgxMzFiZWUwNzgyNmE4ZTk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JINivncqG-dX_Ai_cInf0Dc9vBzirMKkCI9-NsebOds"  alt="c" width="40" height="40" ></a></td>"  alt="c" width="40" height="40" ></a></td>
 
 </p>
 </tr>
