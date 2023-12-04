@@ -31,6 +31,7 @@
  </td>
  <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </td> 
  <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="c" width="40" height="40" ></a></td>
+ <td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="<td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="c" width="40" height="40" ></a></td>"  alt="c" width="40" height="40" ></a></td>
 
 </p>
 </tr>
