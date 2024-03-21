@@ -38,10 +38,4 @@
 <td><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"  alt="Postman" title="Postman" width="40" height="40" ></a></td>
 </p>
 </tr>
-
-
 </table>
-
-
-## GitHub Stats: ##
-<p><img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha0605&show_icons=true&locale=en&layout=compact" alt="tanisha0605" /></p>
