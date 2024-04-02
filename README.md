@@ -34,7 +34,7 @@
  <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png"  alt="VS Code" title="VS Code" width="40" height="40" ></a></td>
 
  <td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"  alt="Canva" title="Canva" width="40" height="40" ></a></td>
- <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tanisha0605/tanisha0605/assets/144723509/098255cd-0e73-4039-be82-0e6170f92d4c"  alt="MongoDB" title="MongoDB" width="40" height="40" ></a></td>
+ <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"  alt="MongoDB" title="MongoDB" width="40" height="40" ></a></td>
 <td><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"  alt="Postman" title="Postman" width="40" height="40" ></a></td>
 </p>
 </tr>
