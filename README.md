@@ -42,4 +42,15 @@
 
 ## GitHub Stats: ##
 <p><img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha0605&show_icons=true&locale=en&layout=compact" alt="tanisha0605" /></p>
+<!--
+<a href="https://stats.quine.sh/tanisha0605/github?theme=light" target="_blank">
+  <img src="https://stats.quine.sh/tanisha0605/github?theme=light" alt="tanisha0605's GitHub Stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=tanisha0605" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisha0605" alt="tanisha0605's GitHub Stats" />
+</a>
+-->
+
+
+
 
