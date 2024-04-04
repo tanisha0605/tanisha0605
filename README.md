@@ -1,17 +1,9 @@
-# About Me:👩‍💻 #
+# 👩‍💻About Me: #
 🎓Currently pursuing BTech in IT at Dwarkadas J. Sanghvi College of Engineering<br>
 💻An aspiring IT engineer and software developer.<br>
 🔗🌐Passionate about coding and learning.
   
-
-
-## Connect with me: ##
-<p align="left">
-<a href="https://linkedin.com/in/tanisha-kanal-0605m2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanisha-kanal-aa7a5a1b7/" height="30" width="40" /></a>
-<a href="https://instagram.com/tanishaa_0605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishaa_0605" height="30" width="40" /></a>
-</p>
-
-## Languages and Tools: ##
+## 💻Languages and Tools: ##
 <table  align=center>
   <tr>
 <td align=center >
@@ -40,7 +32,7 @@
 </tr>
 </table>
 
-## GitHub Stats: ##
+## 📊GitHub Stats: ##
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical" alt="tanisha0605's Top Languages" />
 </a>
