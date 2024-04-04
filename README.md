@@ -42,3 +42,4 @@
 
 ## GitHub Stats: ##
 <p><img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha0605&show_icons=true&locale=en&layout=compact" alt="tanisha0605" /></p>
+[![tanisha0605's GitHub | Stats](https://stats.quine.sh/tanisha0605/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tanisha0605)
