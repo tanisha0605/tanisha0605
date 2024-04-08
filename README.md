@@ -62,7 +62,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=tanisha0605&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="tanisha0605's Top Contributed Repo" />
 </a>
 
-https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png
 
 
 
