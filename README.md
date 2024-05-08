@@ -55,11 +55,15 @@
 ## 📊GitHub Stats: ##
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical" alt="tanisha0605's Top Languages" />
+</a><br>
+<!--
+<a href="https://github-contributor-stats.vercel.app/api?username=tanisha0605&limit=10&theme=dark&combine_all_yearly_contributions=true" target="_blank">
+  <img src="https://github-contributor-stats.vercel.app/api?username=tanisha0605&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="tanisha0605's Top Contributed Repo" />
 </a>
+-->
 
-## 🔝 Top Contributed Repo :
-<a href="https://github-contributor-stats.vercel.app/api?username=tanisha0605&limit=5&theme=dark&combine_all_yearly_contributions=true" target="_blank">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tanisha0605&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="tanisha0605's Top Contributed Repo" />
+<a href="https://github-readme-stats.vercel.app/api?username=tanisha0605&theme=default_repocard&show_icons=true" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisha0605&theme=default_repocard&show_icons=true" alt="GitHub Stats" />
 </a>
 
 
