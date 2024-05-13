@@ -51,7 +51,8 @@
 	</tr>
 </table>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tanisha0605&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 📊GitHub Stats: ##
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical&hide=Jupyter%20Notebook&langs_count=10" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical&hide=Jupyter%20Notebook&langs_count=10" alt="Top Languages" />
