@@ -57,8 +57,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=tanisha0605&theme=default_repocard&show_icons=true" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=tanisha0605&theme=default_repocard&show_icons=true" alt="GitHub Stats" />
 </a><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical&hide=Jupyter%20Notebook&langs_count=10" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical&hide=Jupyter%20Notebook&langs_count=10" alt="Top Languages" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical&hide=Jupyter%20Notebook,pug&langs_count=10" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0605&layout=donut-vertical&hide=Jupyter%20Notebook,pug&langs_count=10" alt="Top Languages" />
 </a>
 
 <!--
