@@ -15,6 +15,7 @@
 		<td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" alt="Pandas" title="Pandas" width="50" height="50"/> </a> </td>
 		<td><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" title="Matplotlib" width="50" height="50"/> </a> </td>
 		<td><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" title="Seaborn" width="50" height="50"/> </a> </td>
+		<td><a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s" alt="Keras" title="Keras" width="50" height="50"/> </a> </td>
 	</tr>
 	<tr>
 		<td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS" width="50" height="50"/> </a> </td>
@@ -26,6 +27,7 @@
 		<td><a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba" alt="Pug" title="Pug" width="50" height="50"/> </a> </td>
 		<td><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite" width="50" height="50"/> </a> </td>
 		<td><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" title="NumPy" width="50" height="50"/> </a> </td>
+		<td><a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" title="Scikit-Learn" width="50" height="50"/> </a> </td>
 	</tr>
 	<tr>
 		<td><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"  alt="IntelliJ Idea" title="IntelliJ Idea" width="50" height="50" ></a></td> 
@@ -37,6 +39,7 @@
 		<td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/> </a> </td>
 		<td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"  alt="Canva" title="Canva" width="50" height="50" ></a></td>
 		<td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" width="50" height="50"/> </a> </td>
+		<td><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" width="50" height="50"/> </a> </td>
 	</tr>
 	<tr>
 		<td><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" width="50" height="50"/> </a> </td>
@@ -48,6 +51,7 @@
 		<td><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" width="50" height="50"/> </a> </td>
 		<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" width="50" height="50"/> </a> </td>
 		<td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" width="50" height="50" /> </a> </td>
+		<td><a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" title="Colab" width="50" height="50" /> </a> </td>
 	</tr>
 </table>
 
