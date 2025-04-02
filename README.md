@@ -37,7 +37,7 @@
 		<td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"  alt="Next.js" title="Next.js" width="50" height="50" ></a></td> 
 		<td><a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" width="50" height="50"/> </a> </td>
 		<td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/> </a> </td>
-		<td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"  alt="Canva" title="Canva" width="50" height="50" ></a></td>
+		<td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000"  alt="Canva" title="Canva" width="50" height="50" ></a></td>
 		<td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" width="50" height="50"/> </a> </td>
 		<td><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" width="50" height="50"/> </a> </td>
 	</tr>
